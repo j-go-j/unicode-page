@@ -1,0 +1,26 @@
+
+body {
+	background-color: #ffffcc;
+	padding: 20px;
+}
+
+p {
+	line-height: 48px;
+	font-size: 28px;
+}
+a:link {
+	color: #003333;
+	text-decoration: none;
+}
+a:visited {
+	color: #0000cc;
+}
+a:hover {
+	color: purple;
+}
+a:active {
+	font-size: 42px;
+}
+h1 {
+	text-align: center;
+}
